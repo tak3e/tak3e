@@ -1,6 +1,6 @@
 ## Hey, today is another wasted day.
 
-telegram: <a href="t.me/tak3e">@tak3e</a>
+telegram: <a href="https://t.me/tak3e">@tak3e</a>
 
 
 <!--
