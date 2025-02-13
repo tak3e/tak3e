@@ -2,7 +2,6 @@
 
 telegram: @tak3e
 
-![](https://komarev.com/ghpvc/?username=Tak3e&color=000000)
 
 <!--
 **Tak3e/tak3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
