@@ -1,4 +1,6 @@
-## Hi there 👋
+## Well, today is another wasted day.
+
+telegram: @tak3e
 
 <!--
 **Tak3e/tak3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
