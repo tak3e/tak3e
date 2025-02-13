@@ -1,4 +1,4 @@
-# Hey, today is another wasted day.
+## Hey, today is another wasted day.
 
 telegram: @tak3e
 
