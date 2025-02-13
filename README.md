@@ -1,6 +1,8 @@
-## Well, today is another wasted day.
+## Hey, today is another wasted day.
 
 telegram: @tak3e
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
 <!--
 **Tak3e/tak3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
