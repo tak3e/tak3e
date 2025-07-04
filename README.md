@@ -1,9 +1,9 @@
 ## Hey, today is another wasted day.
 
-今日は無駄に過ごした別の日です
+一つの喜びが百の悲しみを追い払う。 ぼけっと。
 
 
-contact: <a href="https://t.me/tak3e">@tak3e</a>
+contact with me: <a href="https://t.me/tak3e">@tak3e</a>
 
 
 <!--
