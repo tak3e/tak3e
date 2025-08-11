@@ -12,3 +12,15 @@
   <img src="https://img.icons8.com/?size=100&id=22801&format=png&color=FFFFFF" height="22px" width="22px">
   <img src="https://img.icons8.com/?size=100&id=38389&format=png&color=FFFFFF" height="22px" width="22px">
 </div>
+
+
+<br>
+<br>
+<div align="center">
+  Contact with me 一 私が付いている接触
+  <div align="center">
+    <a href="https://github.com/ваш-профиль">Telegram</a> ·
+    <a href="https://github.com/ваш-профиль">X</a> · 
+    <a href="https://github.com/ваш-профиль">GitHub</a>
+  </div>
+</div>
