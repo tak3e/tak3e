@@ -19,8 +19,6 @@
 <div align="center">
   Contact with me 一 私が付いている接触
   <div align="center">
-    <a href="https://github.com/ваш-профиль">Telegram</a> ·
-    <a href="https://github.com/ваш-профиль">X</a> · 
-    <a href="https://github.com/ваш-профиль">GitHub</a>
+    <a href="https://t.me/tak3e/">Telegram</a>
   </div>
 </div>
